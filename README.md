@@ -21,7 +21,7 @@ This project analyzes bike sales data using Microsoft Excel. It demonstrates dat
 - Region-wise sales distribution
 
 ## 📷 Dashboard Preview
-(Add screenshot here)
+![Dashboard](dashboard.png)
 
 ## 🚀 Skills Demonstrated
 - Data Cleaning
